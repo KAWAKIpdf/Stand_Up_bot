@@ -1,7 +1,7 @@
 import telebot
 from telebot.types import InlineKeyboardMarkup, InlineKeyboardButton
 
-TOKEN = '7775082164:AAHovLa3Q-4906rtycSTbJ-_PgAkxwLVve8'
+TOKEN = ''
 ADMIN_IDS = {6586133062}  # Множество админов
 bot = telebot.TeleBot(TOKEN)
 
