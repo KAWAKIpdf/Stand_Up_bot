@@ -14,7 +14,7 @@ std_logging.basicConfig(
 )
 logger = std_logging.getLogger('Bot')
 
-TOKEN = '7775082164:AAHovLa3Q-4906rtycSTbJ-_PgAkxwLVve8'
+TOKEN = ''
 
 # Глобальные переменные для хранения текстовых данных
 comedians_list = "1. Жуков Дима\n"
